@@ -2,7 +2,7 @@
 
 Website edukasi keselamatan kebakaran untuk masyarakat Nusa Tenggara Barat (NTB). Berisi materi pencegahan kebakaran, evakuasi, penggunaan APAR, pertolongan pertama, berita kebakaran, kuis, dan daftar nomor darurat.
 
-🌐 Website: https://youthfiresafentb.netlify.app/
+🌐 Website: https://youthfiresafentb.github.io/youthfiresafentb/
 
 ## Struktur Folder
 
