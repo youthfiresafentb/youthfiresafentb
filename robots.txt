@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://youthfiresafentb.netlify.app/sitemap.xml
